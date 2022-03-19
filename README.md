@@ -1,6 +1,8 @@
-#### Hi, I’m Cindy
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-- 👋 I'm a graduate student at Columbia studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> #### Hi, I’m Cindy
+
+- I'm a graduate student at Columbia studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
 
 #### How I got here
 
@@ -11,6 +13,8 @@
 - I decided to go back to school to enhance my understand of statistics, quant research methodology, and programming in Python, PySpark, SQL, and R.
 - 👀 I'm currently looking for summer internship opportunities to apply my programming and statistical learning; I'm particularly interested in roles in business (especially retail), regulation, and research. Long-term, I'd love to leverage data science in a social good / fairness-related manner.
 - 📫 Reach out to me on LinkedIn (linkedin.com/in/chencindyj)
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 <!---
 chencindyj/chencindyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
