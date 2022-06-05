@@ -1,6 +1,6 @@
 ![Header](https://github.com/chencindyj/chencindyj/blob/6a48728b37d5c343a1c3f10debc3b64e87ee69bb/cindy%20chen.png "Header")
 
-#### Hi, I’m Cindy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+#### Hi, I’m Cindy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 - I'm a graduate student at Columbia studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
 
