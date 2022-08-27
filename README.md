@@ -2,7 +2,7 @@
 
 #### Hi, I’m Cindy 
 
-- I'm a graduate student at Columbia studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
+- I'm a graduate student studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
 
 #### How I got here
 
