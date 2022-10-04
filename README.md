@@ -7,7 +7,7 @@
 #### How I got here
 
 - 🕰️ I have a background in business analytics and retail industry-based management consulting, and have long been involved in initiatives around women's advancement and empowerment.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media)
-> :hammer: This past summer, I worked as a Data Science Intern where I used PySpark, Databricks, and Tableau extensively on big data
+- In Summer 2022, I worked as a Data Science Intern where I used PySpark, Databricks, and Tableau extensively on big data
 > :hammer: My primary tools in my past roles were VBA, Excel, Alteryx, Anaplan, SAP BI, and R)
 
 #### Where I'm heading
