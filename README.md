@@ -19,9 +19,6 @@
 
 > LinkedIn ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) https://linkedin.com/in/chencindyj
 
-> Twiiter ![](http://i.imgur.com/wWzX9uB.png) http://twitter.com/cindy__chen
-
-
 <!---
 chencindyj/chencindyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
