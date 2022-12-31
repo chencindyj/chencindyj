@@ -2,17 +2,16 @@
 
 #### Hi, I’m Cindy 
 
-- I'm a graduate student studying applied statistics and data science in the Quantitative Methods in the Social Sciences program.  I'm a creative problem-solver who really likes the challenge of making sense of data.
+- I'm a recent applied statistics and data science graduate from the Quantitative Methods in the Social Sciences Masters program at Columbia University.  I'm a creative problem-solver who really likes the challenge of making sense of data.
 
 #### How I got here
 
 - 🕰️ I have a background in business analytics and retail industry-based management consulting, and have long been involved in initiatives around women's advancement and empowerment.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media)
-- In Summer 2022, I worked as a Data Science Intern where I used PySpark, Databricks, and Tableau extensively on big data
-> :hammer: My primary tools in my past roles were VBA, Excel, Alteryx, Anaplan, SAP BI, and R)
+
+> :hammer: Python, R (including building Shiny apps), PySpark, Databricks, Tableau, VBA, Alteryx, Excel
 
 #### Where I'm heading
-- I decided to go back to school to enhance my understand of statistics, quant research methodology, and programming in Python, PySpark, SQL, and R.
-- 👀 I'm currently looking for full-time opportunities to apply my programming and statistical learning; I'm particularly interested in roles in business (especially retail) and regulation (especially around fairness). Long-term, I'd love to leverage data science in a social good / fairness-related manner.
+- 👀 I'm currently seeking full-time opportunities to apply my quantitative skills; I'm particularly interested in roles in business (especially retail) and regulation (especially around fairness). Long-term, I'd love to leverage data science for algorithmic accountability.
 
 #### Where to find me:
 - 📫 Reach out to me on:
