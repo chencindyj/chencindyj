@@ -2,13 +2,13 @@
 
 #### Hi, I’m Cindy 
 
-- I work as a Data Scientist and graduated from the Quantitative Methods in the Social Sciences Masters program at Columbia University.  I'm a creative problem-solver who really likes the challenge of making sense of data.
+- I work as a Data Scientist. I'm a creative problem-solver who thoroughly enjoys making sense of data and has the experience to prove it.
 
 #### How I got here
 
-- 🕰️ I have a background in business analytics and retail industry-based management consulting, and have long been involved in initiatives around women's advancement and empowerment.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media)
+- 🕰️ I have a background in business analytics and retail industry-based management consulting.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media), and recently completed my Masters degree in Quantitative Methods in the Social Sciences.
 
-> :hammer: Python, R (including building Shiny apps), PySpark, Databricks, Tableau, VBA, Alteryx, Excel
+> :hammer: Python, R (including building Shiny apps), SQL, Spark, Databricks, Tableau, VBA, Alteryx, Excel
 
 #### Where to find me:
 - 📫 Reach out to me on:
