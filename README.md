@@ -6,7 +6,7 @@
 
 #### How I got here
 
-- 🕰️ I have a background in business analytics and retail industry-based management consulting.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media), and recently completed my Masters degree in Quantitative Methods in the Social Sciences.
+- 🕰️ I have a background in business analytics, management consulting, and data science.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media), and recently completed my Masters degree in Quantitative Methods in the Social Sciences. I like learning Bayesian statistics (my culminating thesis used Bayesian methods and you can find the project in my Github), applying my learning, and remaining skeptical of AI snake oil.
 
 > :hammer: Python, R (including building Shiny apps), SQL, Spark, Databricks, Tableau, VBA, Alteryx, Excel
 
