@@ -2,13 +2,13 @@
 
 #### Hi, I’m Cindy 
 
-- I work as a Data Scientist. I'm a creative problem-solver who thoroughly enjoys making sense of data and has the experience to prove it.
+- I'm a Data Scientist. I'm a creative problem-solver who thoroughly enjoys making sense of data and has the experience to prove it.
 
 #### How I got here
 
-- 🕰️ I have a background in business analytics, management consulting, and data science.  I studied business and multidisciplinary liberal arts (essentially a little bit of everything like physics, econ, French, linear algebra, and the political economy of media), and recently completed my Masters degree in Quantitative Methods in the Social Sciences. I like learning Bayesian statistics (my culminating thesis used Bayesian methods and you can find the project in my Github), applying my learning, and remaining skeptical of AI snake oil.
+- 🕰️ I have a background in business analytics, management consulting, and data science.  My educational background spans interdisciplinary liberal arts, business, and quantitative social sciences.  I like learning Bayesian statistics (my culminating thesis used Bayesian methods and you can find the project in my Github), applying my learning, and remaining skeptical of AI snake oil.
 
-> :hammer: Python, R (including building Shiny apps), SQL, Spark, Databricks, Tableau, VBA, Alteryx, Excel
+> :hammer: Python, R (including building Shiny apps), SQL (SQL Server, PostgreSQL), Spark, Databricks, Tableau, VBA, Alteryx, Excel (including VBA)
 
 #### Where to find me:
 - 📫 Reach out to me on:
